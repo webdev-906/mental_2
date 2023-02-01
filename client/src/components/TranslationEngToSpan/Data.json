@@ -1,0 +1,32 @@
+{ "english":{
+  "translate1":"Educational Articles",
+  "translate2": "The goal of MiSalud360 is to improve your lifestyle. We merge medical management with a personalized Health Coaching program, where you, together with the health team, will work on the best strategies that will lead you to a healthier life.",
+  "translate3": "Basic information on diabetes, Prevent type 2 diabetes, And how to live with diabetes.",
+  "translate4": "High pressure",
+  "translate5": "Learn about blood pressure, Prevention and risk factors, Treatments and therapies.",
+  "translate6": "High cholesterol",
+  "translate7": "Causes and treatments for high cholesterol.", 
+  "translate8": "Obesity", 
+  "translate9": "Treatments for overweight and obesity, How to choose healthier foods.",
+  "translate10": "Diagnosis and exams, Prevention and risk factors. Hepatitis A, Hepatitis B, and Hepatitis C.",
+  "translate11": "Cancer is not just one disease, but many. How to understand your Diagnosis.",
+  "translate12": "Our Doctors",
+  "translate13": "Our talented team of professionals",
+  "translate14": "We reinvented the healthcare experience for US Hispanics. All of our employed physicians speak Spanish."
+},
+"spanish":{
+  "translate1":"Artículos Educativos",
+  "translate2": "El objetivo de MiSalud360 es mejorar tu estilo de vida. Fusionamos el manejo médico con un programa de Health Coaching personalizado, donde tu, junto al equipo de salud, trabajarán en las mejores estrategias que te lleven a una vida más saludable.",
+  "translate3":  "Informacion basica de diabetes, Prevenga la diabetes tipo 2, Y como vivir con diabetes.",
+  "translate4": "Presión alta",
+  "translate5": "Entérese de presión arterial, Precención y factores de riesgo, Tratamientos y terapias.",
+  "translate6": "Colesterol alto",
+  "translate7": "Causas y tratamientos para el colesterol alto.",
+  "translate8": "Obesidad", 
+  "translate9": "Tratamientos para el sobrepeso y la obesidad, Cómo elegir alimentos más saludables.",
+  "translate10": "Entérese de presión arterial, Precención y factores de riesgo, Tratamientos y terapias.",
+  "translate11": "El cáncer no es solo una enfermedad, sino varias. Cómo comprender su Diagnóstico.",
+  "translate12": "Nuestros Doctores",
+  "translate13": "Reinventamos la experiencia de la atención médica para los hispanos en EE.U.U. Todos nuestros médicos empleados hablan español."
+}
+}
